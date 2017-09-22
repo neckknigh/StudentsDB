@@ -1,0 +1,7 @@
+{
+  "students": [
+    { "code": "115-0001", "name": "Jhon Vargas", "exam1": "3.5", "exam2": "4.2", "exam3": "4.5", "finalExam": "4.7"  },
+    { "code": "115-0002", "name": "Jhon Sandoval", "exam1": "3.0", "exam2": "3.8", "exam3": "4.6", "finalExam": "3.9"  }   
+    
+  ]
+}
