@@ -1,7 +1,7 @@
 {
   "students": [
     { "code": "115-0001", "name": "Jhon Vargas", "email": "jhonlavigne07@gmail.com", "exam1": "3.5", "exam2": "4.2", "exam3": "4.5", "exam4": "4.7"  },
-    { "code": "115-0002", "name": "Jhon Sandoval", "email": "jhon_sando@hotmail.com", "exam1": "3.0", "exam2": "3.8", "exam3": "4.6", "exam4": "3.9"  }   
+    { "code": "115-0002", "name": "Jhon Sandoval", "email": "jhon_sando12@hotmail.com", "exam1": "3.0", "exam2": "3.8", "exam3": "4.6", "exam4": "3.9"  }   
     
   ]
 }
